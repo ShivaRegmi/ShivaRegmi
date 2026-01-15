@@ -11,42 +11,42 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 💡 Passionate about **technology, innovation, and building solutions that matter**
-- 🧠 Always curious, always experimenting
-- 🛠️ Hands-on experience building projects, learning tools, and collaborating
-- 🐧 Daily **Linux** user — productivity, performance, and control
-- ⚡ Focused on **clean code, scalable systems, and real-world impact**
+-  Passionate about **technology, innovation, and building solutions that matter**
+-  Always curious, always experimenting
+-  Hands-on experience building projects, learning tools, and collaborating
+-  Daily **Linux** user — productivity, performance, and control
+-  Focused on **clean code, scalable systems, and real-world impact**
 
 ---
 
-## 🧰 Tech Stack & Skills
+##  Tech Stack & Skills
 
-### 🌐 Frontend
+###  Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=python,php,fastapi" />
 </p>
 
-### 📊 Data, AI & ML
+###  Data, AI & ML
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-### 🧑‍💻 Dev Environment & Tools
+###  Dev Environment & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
 
 ---
 
-## 🧠 What I Work On
+##  What I Work On
 
 - 🔹 RESTful APIs using **FastAPI**
 - 🔹 Data processing & analysis with **Pandas**
@@ -57,7 +57,7 @@
 
 ---
 
-## 📈 Philosophy
+##  Philosophy
 
 - Momentum over perfection  
 - Learn by building  
@@ -66,7 +66,7 @@
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 <p>
   <a href="https://instagram.com/npmi.shivaregmi" target="_blank">
