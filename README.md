@@ -2,8 +2,8 @@
 <!--   GITHUB PROFILE     -->
 <!-- ===================== -->
 
-<h1 align="center">Hi 👋, I'm Shiva Regmi</h1>
-<h3 align="center">Developer • AI Enthusiast • Linux Power User</h3>
+<h1 align="center">Hi, I'm Shiva Regmi</h1>
+<h3 align="center">Developer • AI Enthusiast • Linux User</h3>
 
 <p align="center">
   <em>“Perfection slows you, momentum grows you.”</em>
