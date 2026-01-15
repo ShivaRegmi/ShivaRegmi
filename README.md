@@ -1,73 +1,90 @@
-# 👋 Hi, I'm Shiva 
-17-year-old tech enthusiast | IT Head @ NSS College | Grade 12 Student  
+<!-- ===================== -->
+<!--   GITHUB PROFILE     -->
+<!-- ===================== -->
 
----
-## Introduction
-I am a passionate young technologist and the IT Head at NSS College, currently studying in Grade 12.  
-With a growing foundation in full-stack development and cybersecurity, I love building solutions that improve productivity, enhance efficiency, and bring ideas to life through technology.
----
+<h1 align="center">Hi 👋, I'm Shiva Regmi</h1>
+<h3 align="center">Developer • AI Enthusiast • Linux Power User</h3>
 
-## 🚀 Tech Stack
-
-**Frontend:**
-React, Vite, JavaScript, TailwindCSS
-
-**Backend:** 
-PHP  
-
-**Database:** 
-MySQL  
-
-**Currently Learning:** 
-Python, Cybersecurity  
-
-**Tools:** 
-Git, GitHub  
+<p align="center">
+  <em>“Perfection slows you, momentum grows you.”</em>
+</p>
 
 ---
 
-## 🏗️ What I’m Building
+## 🚀 About Me
 
-### 🔹 Syntrivo – AI Solutions Company  
-An AI-driven company focused on improving productivity and time efficiency for businesses through intelligent automation and research tools.
-
----
-
-## 🎯 What I’m Focusing On
-
-- Mastering the Python programming language  
-- Enhancing my inner self through constant learning  
-- Growing Syntrivo into a strong AI-based solutions provider  
-- Exploring AI tools to build research documents and automation tools  
+- 💡 Passionate about **technology, innovation, and building solutions that matter**
+- 🧠 Always curious, always experimenting
+- 🛠️ Hands-on experience building projects, learning tools, and collaborating
+- 🐧 Daily **Linux** user — productivity, performance, and control
+- ⚡ Focused on **clean code, scalable systems, and real-world impact**
 
 ---
 
-## 💬 A Bit About Me
+## 🧰 Tech Stack & Skills
 
-- *Perfection slows you, momentum grows you*  
-- Passionate about tech, innovation, and building solutions that matter  
-- Always curious, always experimenting  
-- 4–5 months of hands-on experience building projects, learning tools, and collaborating  
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,fastapi" />
+</p>
+
+### 📊 Data, AI & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+### 🧑‍💻 Dev Environment & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+</p>
 
 ---
 
-## 📫 Let’s Connect
----
-**Instagram:** [@npmi.shivaregmi](https://instagram.com/npmi.shivaregmi)
----
-**Linkedin:** [Shiva Regmi](https://www.linkedin.com/in/shiva-regmi989686312)
- 
-<!--
-**ShivaRegmi/ShivaRegmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 What I Work On
 
-Here are some ideas to get you started:
+- 🔹 RESTful APIs using **FastAPI**
+- 🔹 Data processing & analysis with **Pandas**
+- 🔹 AI/ML models using **TensorFlow**
+- 🔹 Modern frontend interfaces with **React**
+- 🔹 Scalable backend logic and clean architectures
+- 🔹 Experimenting with automation, performance, and system-level tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 Philosophy
+
+- Momentum over perfection  
+- Learn by building  
+- Break things → Fix them → Improve them  
+- Code should be **readable, reliable, and reusable**
+
+---
+
+## 🌍 Connect With Me
+
+<p>
+  <a href="https://instagram.com/npmi.shivaregmi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-npmi.shivaregmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📌 Currently Exploring
+
+- Advanced FastAPI patterns
+- AI model deployment
+- Performance optimization
+- Clean system design on Linux
+
+---
+
+<p align="center">
+  <strong>Building. Learning. Evolving.</strong> 
+</p>
