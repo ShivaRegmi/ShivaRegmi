@@ -1,90 +1,111 @@
-<!-- ===================== -->
-<!--   GITHUB PROFILE     -->
-<!-- ===================== -->
-
-<h1 align="center">Hi, I'm Shiva Regmi</h1>
-<h3 align="center">Developer • AI Enthusiast • Linux User</h3>
+<!-- ================================= -->
+<!--        GITHUB PROFILE README      -->
+<!-- ================================= -->
 
 <p align="center">
-  <em>“Perfection slows you, momentum grows you.”</em>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2937&height=90&section=header&text=SHIVA%20REGMI&fontSize=32&fontColor=ffffff&fontAlignY=55" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux%20Power%20User-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>Perfection slows you, momentum grows you</strong>
 </p>
 
 ---
 
-##  About Me
+## ▓ ABOUT ME ▓
 
--  Passionate about **technology, innovation, and building solutions that matter**
--  Always curious, always experimenting
--  Hands-on experience building projects, learning tools, and collaborating
--  Daily **Linux** user — productivity, performance, and control
--  Focused on **clean code, scalable systems, and real-world impact**
+■ Passionate about technology, innovation, and building solutions that matter  
+■ Always curious, always experimenting  
+■ Hands-on experience building projects, learning tools, and collaborating  
+■ Linux user focused on performance, control  
+■ Strong belief in clean code, scalability, and real-world impact  
 
 ---
 
-##  Tech Stack & Skills
+## ▓ TECH STACK ▓
 
-###  Frontend
+### FRONTEND
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 </p>
 
-### Backend & APIs
+### BACKEND 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,php,fastapi&theme=dark" />
 </p>
 
-###  Data, AI & ML
+### DATA • AI 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </p>
 
-###  Dev Environment & Tools
+### ENVIRONMENT & TOOLS
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-##  What I Work On
+## ▓ FOCUS AREAS ▓
 
-- 🔹 RESTful APIs using **FastAPI**
-- 🔹 Data processing & analysis with **Pandas**
-- 🔹 AI/ML models using **TensorFlow**
-- 🔹 Modern frontend interfaces with **React**
-- 🔹 Scalable backend logic and clean architectures
-- 🔹 Experimenting with automation, performance, and system-level tools
+▢ RESTful API design using FastAPI    
+▢ Scalable backend logic and clean architectures  
+▢ Automation, optimization, and Linux-based system design  
 
 ---
 
-##  Philosophy
+## ▓ DEVELOPMENT PHILOSOPHY ▓
 
-- Momentum over perfection  
-- Learn by building  
-- Break things → Fix them → Improve them  
-- Code should be **readable, reliable, and reusable**
+▣ Momentum over perfection  
+▣ Learn by building  
+▣ Break → Fix → Improve   
 
 ---
 
-##  Connect With Me
+## ▓ GITHUB ANALYTICS ▓
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivaRegmi&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaRegmi&layout=pie&theme=dark&hide_border=true" />
+</p>
+
+> Updates automatically with real-time GitHub data
+
+---
+
+## ▓ CONNECT ▓
 
 <p>
   <a href="https://instagram.com/npmi.shivaregmi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-npmi.shivaregmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-npmi.shivaregmi-1f2937?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Email--inactive-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Currently Exploring
+## ▓ CURRENTLY EXPLORING ▓
 
-- Advanced FastAPI patterns
-- AI model deployment
-- Performance optimization
-- Clean system design on Linux
+▢ Mediat FastAPI patterns   
+▢ Performance optimization  
+▢ Clean, maintainable Linux system architecture  
 
 ---
 
 <p align="center">
-  <strong>Building. Learning. Evolving.</strong> 
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:000000&height=60&section=footer&text=BUILDING%20•%20LEARNING%20•%20EVOLVING&fontSize=16&fontColor=ffffff" />
 </p>
+
