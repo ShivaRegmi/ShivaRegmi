@@ -21,8 +21,7 @@
 ## ▓ ABOUT ME ▓
 
 ■ Passionate about technology, innovation, and building solutions that matter  
-■ Always curious, always experimenting  
-■ Hands-on experience building projects, learning tools, and collaborating  
+■ Always curious, always experimenting   
 ■ Linux user focused on performance, control  
 ■ Strong belief in clean code, scalability, and real-world impact  
 
