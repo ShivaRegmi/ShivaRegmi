@@ -79,7 +79,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaRegmi&layout=pie&theme=dark&hide_border=true" />
 </p>
 
-> Updates automatically with real-time GitHub data
 
 ---
 
