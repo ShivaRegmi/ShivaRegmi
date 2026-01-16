@@ -70,26 +70,12 @@
 
 ## ▓ GITHUB ANALYTICS ▓
 
-## ▓ GITHUB ANALYTICS ▓
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ShivaRegmi&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" 
-    width="48%"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaRegmi&layout=compact&theme=dark&hide_border=true" 
-    width="48%"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaRegmi&theme=github-dark&hide_border=true"
+    width="100%"
   />
 </p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ShivaRegmi&theme=dark&hide_border=true" 
-    width="60%"
-  />
-</p>
-
 
 
 ---
@@ -110,9 +96,9 @@
 
 ## ▓ CURRENTLY EXPLORING ▓
 
-▢ Mediat FastAPI patterns   
-▢ Performance optimization  
-▢ Clean, maintainable Linux system architecture  
+  -Mediat FastAPI patterns   
+  -Performance optimization  
+  -Clean, maintainable Linux system architecture  
 
 ---
 
