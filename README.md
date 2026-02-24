@@ -23,16 +23,7 @@
 ■ Passionate about technology, innovation, and building solutions that matter  
 ■ Always curious, always experimenting   
 ■ Linux user focused on performance, control  
-■ Strong belief in clean code, scalability, and real-world impact  
-
----
-
-## ▓ TECH STACK ▓
-
-### FRONTEND
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-</p>
+-
 
 ### BACKEND 
 <p>
@@ -62,9 +53,7 @@
 
 ## ▓ DEVELOPMENT PHILOSOPHY ▓
 
-▣ Momentum over perfection  
-▣ Learn by building  
-▣ Break → Fix → Improve   
+▣ Momentum over perfection   
 
 ---
 
