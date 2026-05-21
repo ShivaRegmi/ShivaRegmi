@@ -85,7 +85,7 @@
 
 ## ▓ CURRENTLY EXPLORING ▓
 
-  -Mediat FastAPI patterns   
+  -ML(CNN,KNN,SVM,NLP) 
   -Performance optimization  
   -Clean, maintainable Linux system architecture  
 
