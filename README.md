@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShivaRegmi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
   <strong>Perfection slows you, momentum grows you</strong>
 </p>
 
