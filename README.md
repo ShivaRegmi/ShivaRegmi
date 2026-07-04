@@ -78,10 +78,10 @@
 
 | Area | Details |
 |---|---|
-| 🔌 API Design | RESTful APIs with FastAPI — clean, documented, production-ready |
-| 🏗️ Architecture | Scalable backend logic and maintainable, clean architectures |
-| ⚙️ Automation | Scripting and system automation to eliminate repetitive work |
-| 🐧 Linux Systems | Performance tuning and thoughtful, minimal system design |
+|  API Design | RESTful APIs with FastAPI — clean, documented, production-ready |
+|  Architecture | Scalable backend logic and maintainable, clean architectures |
+|  Automation | Scripting and system automation to eliminate repetitive work |
+|  Linux Systems | Performance tuning and thoughtful, minimal system design |
 
 <br/>
 
@@ -122,7 +122,6 @@
 <img src="https://raw.githubusercontent.com/ShivaRegmi/ShivaRegmi/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-> ⚡ This snake animation eats your contribution graph. It needs a one-time GitHub Actions workflow to generate — setup instructions are in `snake.yml` below.
 
 <br/>
 
