@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=200&section=header&text=SHIVA%20REGMI&fontSize=48&fontColor=38bdf8&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer%20%7C%20AI%20%26%20Automation%20Enthusiast&descAlignY=58&descSize=18&descColor=e2e8f0" width="100%"/>
 
 <a href="https://github.com/ShivaRegmi">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Automating+the+boring+stuff+with+Python+%F0%9F%90%8D;Exploring+Machine+Learning+%26+NLP+%F0%9F%A4%96;Linux+by+choice%2C+not+chance+%F0%9F%90%A7;Open+to+freelance+%26+collab+work+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Automating+the+boring+stuff+with+Python+%F0%9F%90%8D;Exploring+Machine+Learning+%26+NLP+%F0%9F%A4%96;Linux+by+choice%2C+not+chance+%F0%9F%90%A7; alt="Typing SVG" />
 </a>
 
 <br/>
