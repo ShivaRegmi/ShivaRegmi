@@ -1,101 +1,152 @@
-<!-- ================================= -->
-<!--        GITHUB PROFILE README      -->
-<!-- ================================= -->
+<!-- ================================================= -->
+<!--              SHIVA REGMI — GITHUB PROFILE         -->
+<!-- ================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=200&section=header&text=SHIVA%20REGMI&fontSize=48&fontColor=38bdf8&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer%20%7C%20AI%20%26%20Automation%20Enthusiast&descAlignY=58&descSize=18&descColor=e2e8f0" width="100%"/>
+
+<a href="https://github.com/ShivaRegmi">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Automating+the+boring+stuff+with+Python+%F0%9F%90%8D;Exploring+Machine+Learning+%26+NLP+%F0%9F%A4%96;Linux+by+choice%2C+not+chance+%F0%9F%90%A7;Open+to+freelance+%26+collab+work+%F0%9F%92%BC" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Backend%20Developer-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Enthusiast-1e293b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux%20Power%20User-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-16a34a?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ShivaRegmi&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/ShivaRegmi?label=Followers&style=flat-square&color=38bdf8" alt="GitHub Followers"/>
+
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2937&height=90&section=header&text=SHIVA%20REGMI&fontSize=32&fontColor=ffffff&fontAlignY=55" />
+  <em>"Perfection slows you, momentum grows you."</em>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Developer-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-1f2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux%20Power%20User-000000?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivaRegmi&label=Cruel%20Eyes&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+##  About Me
 
-<p align="center">
-  <strong>Perfection slows you, momentum grows you</strong>
-</p>
+-  Passionate about technology, innovation, and building solutions that actually ship
+-  Always curious, always experimenting — I learn by breaking things (safely, on Linux)
+-  Linux power user obsessed with performance, control, and clean systems
+-  Currently available for freelance backend & automation projects — see [Connect](#-lets-connect) below
 
----
+<br/>
 
-## ▓ ABOUT ME ▓
+##  Tech Stack
 
-■ Passionate about technology, innovation, and building solutions that matter  
-■ Always curious, always experimenting   
-■ Linux user focused on performance, control  
--
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### BACKEND 
+**Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,php,fastapi&theme=dark" />
 </p>
 
-### DATA • AI 
+</td>
+<td valign="top" width="33%">
+
+**Data & AI**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### ENVIRONMENT & TOOLS
+</td>
+<td valign="top" width="33%">
+
+**Environment & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" />
 </p>
 
----
+</td>
+</tr>
+</table>
 
-## ▓ FOCUS AREAS ▓
+<br/>
 
-▢ RESTful API design using FastAPI    
-▢ Scalable backend logic and clean architectures  
-▢ Automation, optimization, and Linux-based system design  
+##  Focus Areas
 
----
+| Area | Details |
+|---|---|
+| 🔌 API Design | RESTful APIs with FastAPI — clean, documented, production-ready |
+| 🏗️ Architecture | Scalable backend logic and maintainable, clean architectures |
+| ⚙️ Automation | Scripting and system automation to eliminate repetitive work |
+| 🐧 Linux Systems | Performance tuning and thoughtful, minimal system design |
 
-## ▓ DEVELOPMENT PHILOSOPHY ▓
+<br/>
 
-▣ Momentum over perfection   
+##  Currently Exploring
 
----
+- [ ] Machine Learning — CNN, KNN, SVM, NLP
+- [ ] Performance optimization at the system level
+- [ ] Clean, maintainable Linux system architecture
 
-## ▓ GITHUB ANALYTICS ▓
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShivaRegmi&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaRegmi&theme=github-dark-blue&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaRegmi&layout=compact&theme=github_dark_dimmed&hide_border=true" width="49%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaRegmi&theme=github-compact&hide_border=true&color=38bdf8&line=38bdf8&point=e2e8f0" width="100%" />
+
+</div>
+
+<details>
+<summary> GitHub Trophies</summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ShivaRegmi&theme=darkhub&no-frame=true&row=1&column=6" />
+</div>
+</details>
+
+<br/>
+
+##  Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ShivaRegmi/ShivaRegmi/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+> ⚡ This snake animation eats your contribution graph. It needs a one-time GitHub Actions workflow to generate — setup instructions are in `snake.yml` below.
+
+<br/>
+
+## 💬 Let's Connect
+
+<div align="center">
+
+<a href="https://instagram.com/npmi.shivaregmi" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-npmi.shivaregmi-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:your-email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-38bdf8?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+
+</div>
+
+<br/>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaRegmi&theme=github-dark&hide_border=true"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=120&section=footer&text=BUILDING%20•%20LEARNING%20•%20EVOLVING&fontSize=16&fontColor=38bdf8" width="100%"/>
 </p>
-
-
----
-
-## ▓ CONNECT ▓
-
-<p>
-  <a href="https://instagram.com/npmi.shivaregmi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-npmi.shivaregmi-1f2937?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Email--inactive-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-</p>
-
----
-
-## ▓ CURRENTLY EXPLORING ▓
-
-  -ML(CNN,KNN,SVM,NLP) 
-  -Performance optimization  
-  -Clean, maintainable Linux system architecture  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:000000&height=60&section=footer&text=BUILDING%20•%20LEARNING%20•%20EVOLVING&fontSize=16&fontColor=ffffff" />
-</p>
-
