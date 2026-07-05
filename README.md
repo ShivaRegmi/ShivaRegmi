@@ -28,26 +28,12 @@
 
 </div>
 
-<br/>
-
-## Table of Contents
-
-- [About](#about)
-- [Tech Stack](#tech-stack)
-- [Focus Areas](#focus-areas)
-- [Currently Exploring](#currently-exploring)
-- [GitHub Activity](#github-activity)
-- [Contact](#contact)
-
-<br/>
 
 ## About
 
-- Backend developer focused on building scalable, production-ready systems
 - Working across Python, PHP, and FastAPI for API and service development
 - Exploring machine learning and NLP as an extension of backend and data work
 - Linux user with a focus on performance, control, and clean system design
-- Available for freelance backend and automation projects — see [Contact](#contact)
 
 <br/>
 
