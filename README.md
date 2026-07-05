@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Backend%20Developer-0f172a?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20Enthusiast-1e293b?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Linux%20Power%20User-000000?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Available%20for%20Freelance-16a34a?style=for-the-badge" />
+
 
 <br/><br/>
 
@@ -158,7 +158,6 @@ All cards below are generated as static files by scheduled GitHub Actions workfl
 
 <br/><br/>
 
-**Available for freelance backend, automation, and AI-integration projects.**
 
 </div>
 
